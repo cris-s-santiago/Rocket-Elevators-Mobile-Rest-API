@@ -7467,11 +7467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Odyssey\\Week13\\RocketElevators-AI-Alexa-Rest-API\\RestAPI.csproj",
+      "projectUniqueName": "C:\\Odyssey\\Week14\\Rocket-Elevators-Mobile-Rest-API\\RestAPI.csproj",
       "projectName": "RestAPI",
-      "projectPath": "C:\\Odyssey\\Week13\\RocketElevators-AI-Alexa-Rest-API\\RestAPI.csproj",
+      "projectPath": "C:\\Odyssey\\Week14\\Rocket-Elevators-Mobile-Rest-API\\RestAPI.csproj",
       "packagesPath": "C:\\Users\\criss\\.nuget\\packages\\",
-      "outputPath": "C:\\Odyssey\\Week13\\RocketElevators-AI-Alexa-Rest-API\\obj\\",
+      "outputPath": "C:\\Odyssey\\Week14\\Rocket-Elevators-Mobile-Rest-API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\criss\\AppData\\Roaming\\NuGet\\NuGet.Config",
