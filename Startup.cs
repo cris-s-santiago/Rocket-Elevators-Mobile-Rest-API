@@ -44,7 +44,7 @@ namespace RestAPI
                     //"server=localhost;port=3306;database=RailsApp_development;uid=codeboxx;password=Codeboxx1*",
 
                     // Live Site Connection
-                    "server= codeboxx.cq6zrczewpu2.us-east-1.rds.amazonaws.com;user=codeboxx;password=Codeboxx1!;port=3306;database=CristianeSantiago;SslMode=none;",
+                    "server= rds-mysql-rocketelevator-cristiane.cbn9oiy2eymx.us-east-1.rds.amazonaws.com;user=cristiane;password=m3c4tr0n1c4;port=3306;database=CristianeSantiago;SslMode=none;",
 
                     new MySqlServerVersion(new Version(8, 0, 21)),
                         mySqlOptions => mySqlOptions
